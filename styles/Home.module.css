@@ -50,6 +50,13 @@
   text-align: center;
 }
 
+.subtitle {
+	font-weight: bold;
+}
+.subtitle span {
+	color: red;
+}
+
 .description {
   margin: 4rem 0;
   line-height: 1.5;
